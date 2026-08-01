@@ -6,3 +6,5 @@ A dynamic array stack push/pop implementation in C++.
 Clone this project and look at the source files:
 - `main.cpp`
 - `stack.h`
+
+*Initialized by vikramxsingh12 workspace automation.*
